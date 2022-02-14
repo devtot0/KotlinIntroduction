@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrueOrFalse</string>
+    <string name="main_activity_subscribe">Subscribe for more!</string>
+    <string name="main_activity_button_subscribe">Subscribe</string>
+    <string name="main_activity_button_like">Like</string>
+    <string name="string_main_activity_button_like">Like</string>
+</resources>
